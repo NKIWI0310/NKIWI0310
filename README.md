@@ -27,5 +27,5 @@
 </a>
 
 # :running: Activity :running:
-CGAC 학부연구생(23.08 ~ 24.08)<br/>
+CGAC 학부연구생(23.08 ~ 24.12)<br/>
 LG CNS 인턴 (24.06 ~ 24.08)<br/>
