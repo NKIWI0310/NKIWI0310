@@ -4,11 +4,6 @@
 <div>
   
 
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNKIWI0310%2Fhit-counter&count_bg=%232FD5C3&title_bg=%235037B8&icon=docker.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
-  </a>
-</div>
 <div>
   <a href="https://solved.ac/xampak/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xampak" alt="Solved.ac Profile" style="width: 43%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
