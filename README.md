@@ -13,7 +13,6 @@
   <a href="https://solved.ac/xampak/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xampak" alt="Solved.ac Profile" style="width: 43%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
-  <img src="https://leetcode.card.workers.dev/nkiwi0310?theme=default&font=baloo&extension=null" alt="LeetCode Profile" style="width: 52%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
